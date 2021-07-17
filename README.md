@@ -1,4 +1,4 @@
-This project contains 2 programs, a port scanner and a keylogger.
+
 
 ##PORT SCANNER
 This port scanner prompts the user to input one or more targets and a range of ports. 
